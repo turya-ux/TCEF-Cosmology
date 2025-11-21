@@ -1,5 +1,5 @@
 # TCEF: The Theory of Cosmic Entropy Functional 🌌
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17669876.svg)](https://doi.org/10.5281/zenodo.17669876)
 **A Minimum-Entropy Horizon Framework Unifying the $H_0$, $S_8$, and $w(z)$ Anomalies.**
 
 This repository contains the complete numerical pipeline for the paper:
